@@ -7,7 +7,7 @@
 * [Android应用程序调试](lab04md.md)
 * [线性布局](lab05md.md)
 * [相对布局](lab06md.md)
-* [基本控件](lab07.md)
+* [基本控件](lab07md.md)
 * [多线程](lab09.md)
 * [HttpUrlConection](lab10.md)
 * [XML解析](lab12.md)
