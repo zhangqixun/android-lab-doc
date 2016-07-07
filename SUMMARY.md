@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [环境搭建](lab01md.md)
 * [Hello World应用程序](lab02md.md)
-* [Activity生命周期](lab03.md)
+* [Activity生命周期](lab03md.md)
 * [Android应用程序调试](lab04.md)
 * [线性布局](lab05.md)
 * [相对布局](lab06.md)
