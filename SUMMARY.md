@@ -9,7 +9,7 @@
 * [相对布局](lab06md.md)
 * [基本控件](lab07md.md)
 * [多线程](lab09md.md)
-* [HttpUrlConection](lab10.md)
+* [HttpUrlConection](lab10md.md)
 * [XML解析](lab12.md)
 * [Json数据解析](lab13.md)
 * [Intent基础](lab14.md)
