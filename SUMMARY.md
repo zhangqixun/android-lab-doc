@@ -23,7 +23,7 @@
 * [Service](lab22md.md)
 * [ViewPager](lab23md.md)
 * [Fragment](lab24md.md)
-* [国际化](lab25.md)
+* [国际化](lab25md.md)
 * [位置服务](lab26md.md)
 * [签名](lab27.md)
 
