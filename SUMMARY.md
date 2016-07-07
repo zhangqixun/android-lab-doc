@@ -20,7 +20,7 @@
 * [Intent传递数据](lab19md.md)
 * [TextWatcher](lab20md.md)
 * [Nine-Patch图片](lab21md.md)
-* [Service](lab22.md)
+* [Service](lab22md.md)
 * [ViewPager](lab23.md)
 * [Fragment](lab24.md)
 * [国际化](lab25.md)
