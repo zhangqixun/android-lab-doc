@@ -22,7 +22,7 @@
 * [Nine-Patch图片](lab21md.md)
 * [Service](lab22md.md)
 * [ViewPager](lab23md.md)
-* [Fragment](lab24.md)
+* [Fragment](lab24md.md)
 * [国际化](lab25.md)
 * [位置服务](lab26md.md)
 * [签名](lab27.md)
