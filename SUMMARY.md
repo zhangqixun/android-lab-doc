@@ -21,7 +21,7 @@
 * [TextWatcher](lab20md.md)
 * [Nine-Patch图片](lab21md.md)
 * [Service](lab22md.md)
-* [ViewPager](lab23.md)
+* [ViewPager](lab23md.md)
 * [Fragment](lab24.md)
 * [国际化](lab25.md)
 * [位置服务](lab26md.md)
