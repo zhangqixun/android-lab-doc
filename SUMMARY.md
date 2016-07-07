@@ -19,7 +19,7 @@
 * [控件样式定制](lab18md.md)
 * [Intent传递数据](lab19md.md)
 * [TextWatcher](lab20md.md)
-* [Nine-Patch图片](lab21.md)
+* [Nine-Patch图片](lab21md.md)
 * [Service](lab22.md)
 * [ViewPager](lab23.md)
 * [Fragment](lab24.md)
