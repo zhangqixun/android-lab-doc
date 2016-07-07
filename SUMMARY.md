@@ -16,7 +16,7 @@
 * [Application对象](lab15md.md)
 * [Sqllite](lab16md.md)
 * [ListView](lab17md.md)
-* [控件样式定制](lab18.md)
+* [控件样式定制](lab18md.md)
 * [Intent传递数据](lab19.md)
 * [TextWatcher](lab20.md)
 * [Nine-Patch图片](lab21.md)
